@@ -13,7 +13,7 @@ public class Book {
         return authors;
     }
 
-    public void setAutors(Author[] authors) {
+    public void setAuthors(Author[] authors) {
         this.authors = authors;
     }
     public void addAuthor(Author author){
